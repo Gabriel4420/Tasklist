@@ -68,6 +68,24 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
+### Documentação official
+
+
+Este é um projeto feito com o endpoint Flutter.
+
+Você pode encontrar alguns recursos e métodos para começar o seu projeto flutter em:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+Caso tenha alguma dúvida, busque pela documentação do flutter em:
+
+- [online documentation](https://flutter.dev/docs), que oferece tutoriais,
+
+amostras, orientação sobre desenvolvimento móvel e uma referência completa de API.
+
+---
+
 ## 📦️ Como utilizar o projeto
 
 Para copiar o projeto, utilize os comandos:
