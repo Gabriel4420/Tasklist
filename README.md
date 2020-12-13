@@ -60,8 +60,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ### Padronização de código
 
-  - [ESLint](https://eslint.org/)
-  - [Prettier](https://prettier.io/)
   - :mouse: [Editor Config](https://editorconfig.org/)
 
 ### IDE
